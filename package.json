@@ -1,0 +1,22 @@
+{
+  "name": "5-bootstrap",
+  "version": "1.0.0",
+  "description": "Instructions and purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biancamolnar/5-bootstrap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biancamolnar/5-bootstrap/issues"
+  },
+  "homepage": "https://github.com/biancamolnar/5-bootstrap#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.1"
+  }
+}
